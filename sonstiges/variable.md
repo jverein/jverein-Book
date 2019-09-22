@@ -396,13 +396,13 @@ Vorname Name
 
 Interne Mitgliedsnummer des zahlenden Mitglieds
 
-#### mitglied\_zahlungsrhytmus
+#### mitglied\_zahlungsrhythmus
 
-Schlüssel des Zahlungsrhytmus
+Schlüssel des Zahlungsrhythmus
 
 #### mitglied\_zahlungstermin
 
-Beitragsmodel "flexibel": Zahlungstermin und Zahlungsrhytmus als Text. Beispiele: "Vierteljährlich \(Feb./Mai /Aug./Nov.\)", "Halbjährlich \(Mai /Nov.\)"
+Beitragsmodell "flexibel": Zahlungstermin und Zahlungsrhythmus als Text. Beispiele: "Vierteljährlich \(Feb./Mai /Aug./Nov.\)", "Halbjährlich \(Mai /Nov.\)"
 
 #### mitglied\_zahlungsweg
 
