@@ -522,11 +522,15 @@ Abrechnungsmonat \(nur bei entsprechendem Beitragsmodell\)
 
 #### abrechnungsparameter\_faelligkeit1
 
-Fälligkeit bei Erstlastschriften
+Fälligkeit bei Erstlastschriften \(bis Version 2.8.18\)
 
 #### abrechnungsparameter\_faelligkeit2
 
-Fälligkeit bei Folgelastschriften
+Fälligkeit bei Folgelastschriften \(bis Version 2.8.18\)
+
+#### abrechnungsparameter\_faelligkeit
+
+Fälligkeit \(ab Version 2.8.19\)
 
 #### abrechnungsparameter\_stichtag
 
