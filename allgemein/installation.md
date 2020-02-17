@@ -38,7 +38,7 @@ Jameica beenden und neu starten.
 
 Datei \| Plugins online suchen
 
-Wichtig! Wenn mit Jameica &lt; 2.7 gearbeitet wird, ist das aktuelle JVerein-Repositiory noch nicht eingetragen. "Plugin-Repositories verwalten" anklicken, rechter Mausklick auf das alte JVerein-Repository, löschen. "Neues Repository hinzufügen" anklicken, URL: [http://www.jverein.de/updates](http://www.jverein.de/updates).
+Wichtig! Wenn mit Jameica &lt; 2.7 gearbeitet wird, ist das aktuelle JVerein-Repositiory noch nicht eingetragen. "Plugin-Repositories verwalten" anklicken, rechter Mausklick auf das alte JVerein-Repository, löschen. "Neues Repository hinzufügen" anklicken, URL: [https://www.jverein.de/updates](https://www.jverein.de/updates).
 
 JVerein-Repository auswählen:
 
