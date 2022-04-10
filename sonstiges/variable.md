@@ -396,13 +396,13 @@ Vorname Name
 
 Interne Mitgliedsnummer des zahlenden Mitglieds
 
-#### mitglied\_zahlungsrhytmus
+#### mitglied\_zahlungsrhythmus
 
-Schlüssel des Zahlungsrhytmus
+Schlüssel des Zahlungsrhythmus
 
 #### mitglied\_zahlungstermin
 
-Beitragsmodel "flexibel": Zahlungstermin und Zahlungsrhytmus als Text. Beispiele: "Vierteljährlich \(Feb./Mai /Aug./Nov.\)", "Halbjährlich \(Mai /Nov.\)"
+Beitragsmodell "flexibel": Zahlungstermin und Zahlungsrhythmus als Text. Beispiele: "Vierteljährlich \(Feb./Mai /Aug./Nov.\)", "Halbjährlich \(Mai /Nov.\)"
 
 #### mitglied\_zahlungsweg
 
@@ -522,11 +522,15 @@ Abrechnungsmonat \(nur bei entsprechendem Beitragsmodell\)
 
 #### abrechnungsparameter\_faelligkeit1
 
-Fälligkeit bei Erstlastschriften
+Fälligkeit bei Erstlastschriften \(bis Version 2.8.18\)
 
 #### abrechnungsparameter\_faelligkeit2
 
-Fälligkeit bei Folgelastschriften
+Fälligkeit bei Folgelastschriften \(bis Version 2.8.18\)
+
+#### abrechnungsparameter\_faelligkeit
+
+Fälligkeit \(ab Version 2.8.19\)
 
 #### abrechnungsparameter\_stichtag
 

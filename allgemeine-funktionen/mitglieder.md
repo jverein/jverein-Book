@@ -117,7 +117,7 @@ Die Mandats-ID wird automatisch aus der Mitgliedsnummer oder optional aus der ex
 
 Das Datum des Mandats muss angegeben werden.
 
-Die SEPA-Sequenz wird automatisch ermittelt.
+Bis Version 2.8.18 wird die SEPA-Sequenz automatisch ermittelt, ab Version 2.8.19 werden nur noch Folgelastschriften verwendet.
 
 Zusätzlich kann ein abweichender Kontoinhaber angegeben werden:![](../.gitbook/assets/mitgliedzahlung2.png)Mit dem Button "Mitglied-Daten übernehmen" werden einige der Daten des Mitglieds übertragen. Hinweis: Es werden nicht alle Daten übertragen, da es sich um einen abweichenden Kontoinhaber handelt. Z. B. der Vorname wird nicht übertragen.
 
